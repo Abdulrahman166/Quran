@@ -1,0 +1,16 @@
+.bg-image7{
+    background-image: linear-gradient(rgb(0,35,71,50%),rgb(0,35,71,50%)),url(picture/close.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70%;
+    width: 100%;
+    margin-bottom: 200px
+}
+.bg-text7{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #FFF
+}
